@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author":"seriywolf"
+	"author":"seriywolf",
+	"description": "Learning freecodecamp project"
 }
