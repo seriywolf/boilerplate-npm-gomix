@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author":"seriywolf",
-	"description": "Learning freecodecamp project"
+	"description": "Learning freecodecamp project",
+	"keywords": [ "test", "learn", "nodejs", "freecodecamp" ]
 }
