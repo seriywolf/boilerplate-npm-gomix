@@ -1,7 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0"
+		"moment": "2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -15,10 +15,6 @@
 	"description": "Learning freecodecamp project",
 	"keywords": [ "test", "learn", "nodejs", "freecodecamp" ],
 	"license":"MIT",
-	"version": "1.0",
-	"dependencies": {
-		"package-name": "moment",
-		"express": "2.14.0"
-	  }
+	"version": "1.0"
 	  
 }
