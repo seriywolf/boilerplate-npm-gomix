@@ -13,5 +13,6 @@
 	},
 	"author":"seriywolf",
 	"description": "Learning freecodecamp project",
-	"keywords": [ "test", "learn", "nodejs", "freecodecamp" ]
+	"keywords": [ "test", "learn", "nodejs", "freecodecamp" ],
+	"license":"MIT"
 }
